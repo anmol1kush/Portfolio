@@ -3,6 +3,7 @@ import { styles } from '../styles';
 
 
 
+
 const Hero = () => {
   return (
    <div>
