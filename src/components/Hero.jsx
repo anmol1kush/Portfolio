@@ -4,6 +4,7 @@ import { ComputersCanvas } from './canvas';
 
 
 
+
 const Hero = () => {
   return (
    <div>
